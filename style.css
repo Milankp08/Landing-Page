@@ -4,7 +4,7 @@
    font-family: "Baloo 2", cursive;
    margin: 0px;
    padding: 0px;
-   background: url("/img/man.jpg");
+   background: url("man.jpg");
    background-position-y: 75px;
    background-repeat: no-repeat;
  }
